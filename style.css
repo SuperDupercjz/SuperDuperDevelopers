@@ -1,16 +1,21 @@
 body{
     background-color: black;
+    background-image: url(https://image.freepik.com/free-vector/abstract-holographic-background-with-pastel-colors_61607-446.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 2100px;
     color: white;
 }
 .titleColor{
     color: rgb(0, 255, 255);
-    font-size: 100px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 200px;
 }
 .duperwhite{
     color: #f623e5;
 }
 .borderNav{
-    border: 10px white bold;
+    border: 10px rgb(0, 0, 0) bold;
     margin-top: 10px;
     margin-bottom: 60px;
 }
