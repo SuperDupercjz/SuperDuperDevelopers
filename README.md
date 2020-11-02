@@ -1,2 +1,2 @@
 # SuperDuperDevelopers
-https://superdupercjz.github.io/SuperDuperDevelopers/
+http://www.superduperdevelopers.com/
