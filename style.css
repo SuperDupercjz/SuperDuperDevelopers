@@ -6,18 +6,26 @@ body{
     background-size: 2100px;
     color: white;
 }
+.sddnav{
+    font-size: 60px !important;
+    font-weight: 500 !important;
+}
 .titleColor{
     color: rgb(0, 255, 255);
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-    font-size: 200px;
+   
+    text-shadow:0 0 20px rgb(253, 5, 232) !important;
+    background-color: rgba(192, 212, 241, 0.603) !important;
+    border-radius: 10px;
+   
 }
 .duperwhite{
     color: #f623e5;
 }
 .borderNav{
     border: 10px rgb(0, 0, 0) bold;
-    margin-top: 10px;
-    margin-bottom: 60px;
+    margin-top: 5px;
+    margin-bottom: 40px;
 }
 
 .one{
