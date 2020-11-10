@@ -7,10 +7,40 @@
     padding: 15px 0 15px;
     text-align: center;
     background-color: gold;
+    border-radius: 10px;
+    box-shadow: rgb(233, 231, 231) 5px 3px 20px 5px;
 }
 .whatiscss{
     font-size: 50px;
     margin-top: 60px;
     color: rgb(0, 204, 255);
+    background-color: rgb(223, 246, 246);
     text-align: center;
+    border-radius: 20px;
+    box-shadow: rgb(233, 231, 231) 5px 3px 20px 5px;
+}
+.ArticleCss{
+    padding: 25px 20px 25px;
+    text-align: center;
+    background-color: rgb(250, 240, 183);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgb(204, 204, 204) 5px 3px 20px 5px;
+}
+.CssTricks{
+    font-size: 50px;
+    margin-top: 60px;
+    color: rgb(0, 204, 255);
+    background-color: rgb(223, 246, 246);
+    text-align: center; 
+    border-radius: 20px;
+    box-shadow: rgb(233, 231, 231) 5px 3px 20px 5px;
+}
+.codeimg1{
+margin-left: 0;
+}
+@media only screen and (min-width: 1000px){
+    .codeimg1{
+        padding-left: 150px;
+    } 
 }
