@@ -37,10 +37,24 @@
     box-shadow: rgb(233, 231, 231) 5px 3px 20px 5px;
 }
 .codeimg1{
-margin-left: 0;
+height: 350px;
+width: 300px;
 }
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 600px){
     .codeimg1{
-        padding-left: 150px;
+        height: 340px;
+        width: 350px;
+    } 
+}
+@media only screen and (min-width: 750px){
+    .codeimg1{
+        height: 450px;
+        width: 450px;
+    } 
+}
+@media only screen and (min-width: 950px){
+    .codeimg1{
+        height: 550px;
+        width: 550px;
     } 
 }
